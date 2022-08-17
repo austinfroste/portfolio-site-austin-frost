@@ -37,7 +37,7 @@ main {
 code {
   background: #e4e4e4;
   border-radius: 5px;
-  padding: 100px; /* 0.75rem; */
+  padding: 8px; /* 0.75rem; */
   font-family: Roboto Mono, Menlo, Monaco, Lucida Console, Courier New, monospace;
 }
 

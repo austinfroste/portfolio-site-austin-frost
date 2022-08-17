@@ -16,6 +16,8 @@ export default function Home() {
     	    <a href="https://github.com/austinfroste">GitHub</a> <a href="austindfrost@icloud.com">Email</a>
 	      </div>
       </body>
+
+      <Footer />
     </div>
   )
 }

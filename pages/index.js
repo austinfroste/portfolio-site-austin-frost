@@ -17,6 +17,13 @@ export default function Home() {
 	      </div>
       </body>
 
+      <main>
+        <Header title="Welcome to my portfolio!" />
+        <p className="description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+      </main>
+
       <Footer />
     </div>
   )

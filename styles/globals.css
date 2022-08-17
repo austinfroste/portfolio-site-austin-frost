@@ -2,7 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: Roboto Mono, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+  font-family: -apple-system, Roboto Mono, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
@@ -24,14 +24,6 @@ code {
   border-radius: 5px;
   padding: 100px; /* 0.75rem; */
   font-family: Roboto Mono, Menlo, Monaco, Lucida Console, Courier New, monospace;
-}
-
-div {
-  padding: 100px;
-  margin: 60px;
-  text-align: justify;
-  line-height: 24px;
-  font-size: 14px;
 }
 
 .container {

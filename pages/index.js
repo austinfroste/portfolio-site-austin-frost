@@ -6,15 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Austin Frost</title>
+        <title>@austinfroste | Austin Frost</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Austin Frost" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
       </main>
 
       <body>
@@ -23,8 +20,7 @@ export default function Home() {
     	    <a href="https://github.com/austinfroste">GitHub</a> <a href="austindfrost@icloud.com">Email</a>
 	      </div>
       </body>
-
-      <Footer />
+      
     </div>
   )
 }

@@ -14,5 +14,5 @@ describe('sample test', () => {
     .and(($img) => {
       expect($img[0].naturalWidth).to.be.greaterThan(0);
     })
-  }) */
+  }) */ // make sure to add these tests again with the content of the site
 })

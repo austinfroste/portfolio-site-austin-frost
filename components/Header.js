@@ -5,7 +5,6 @@ export default function Header() {
     <>
       <header className={styles.header}>
         <a href="/">Austin Frost</a>
-        <hr></hr>
       </header>
     </>
   )

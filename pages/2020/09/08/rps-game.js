@@ -11,9 +11,10 @@ export default function RPSGame() {
       </Head>
 
       <Header />
+      <hr></hr>
 
       <body>
-          <h2>Rock Paper Scissors Game</h2>
+          <h3>Rock Paper Scissors Game</h3>
 	      <div>
 		      <p>Here is a simple project I made when I first started getting into coding.
                 I wanted some experience working with iOS/Swift/Xcode, and I thought a simple game would be a good way to get that.

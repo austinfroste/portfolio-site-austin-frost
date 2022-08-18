@@ -11,6 +11,9 @@ export default function Home() {
       </Head>
 
       <body>
+        <div>
+          <h1><a href="/">Austin Frost</a></h1>
+        </div>
 
         <hr></hr>
 
@@ -19,15 +22,6 @@ export default function Home() {
           If you have any inquiries, or would just like to chat, feel free to email! You can also check out my projects on GitHub. ✌️</p>
     	    <a href="mailto:afrost6@uoregon.edu">Email</a> <a href="https://github.com/austinfroste">GitHub</a> <a href="https://csnl.uoregon.edu/people/">CSNLab</a>
 	      </div>
-
-        <div>
-          
-          <div>
-            <h3>2020</h3>
-            <p><a href="https://github.com/austinfroste/rps-game">RPS Game</a></p>
-          </div>
-
-        </div>
       </body>
       
     </div>

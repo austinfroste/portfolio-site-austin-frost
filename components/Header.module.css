@@ -3,11 +3,11 @@
   height: 20px;
   background-color: snow;
   display: flex;
-  justify-content: left;
-  align-items: left;
-  font-family: Inter, Arial, Oxygen, Courier New, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
+  justify-content: center;
+  align-items: center;
+  font-family: Courier New, Inter, Arial, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-style: normal;
+  font-style: monospace;
   font-weight: 700;
   font-size: 16px;
   text-decoration: none;

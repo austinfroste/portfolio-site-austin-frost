@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <>
       <header className={styles.header}>
-        <a href="/">Austin Frost</a>
+        <a href="/">@austinfroste | Austin Frost</a>
       </header>
     </>
   )

@@ -11,16 +11,18 @@ export default function RPSGame() {
       </Head>
 
       <Header />
-      <hr></hr>
 
       <body>
-          <h3>Rock Paper Scissors Game</h3>
+        <div>
+          <h1>Rock Paper Scissors Game</h1>
+        </div>
 	      <div>
-		      <p>Here is a simple project I made when I first started getting into coding.
-                I wanted some experience working with iOS/Swift/Xcode, and I thought a simple game would be a good way to get that.
-              </p>
-
-              <a href="https://github.com/austinfroste/rps-game">The project</a>
+          <p>A simple Rock Paper Scissors (RPS) game coded in Swift for the iOS platform.</p>
+          <h2>A brief overview</h2>
+		      <p>I developed this app roughly a month prior to starting my formal CS education. Thus, this project was made entirely on a self-learning merit. Later on in my first year of my CS degree, I was assigned a RPS game for a class project, of which ended up working better than this one. However, that one was made to be played through the Terminal whereas this has a full GUI for iOS. Though simple, I did design the various RPS images found throughout the app. Note that this app was developed specifically for an iPhone 11 Pro. Scaling for other devices was not taken into account.</p>
+          <h2>Gameplay</h2>
+          <p>The interface is simple. Users are instantly thrown into the gameplay. They are prompted to pick from "rock", "paper", or "scissors". After they do, a random computer-generated move will be made and then the user and computer moves will be evaluated. Whoever won that round will have a point added to their score. This is the extent of the gameplay.</p>
+          <a href="https://github.com/austinfroste/rps-game">The project</a>
 	      </div>
       </body>
       

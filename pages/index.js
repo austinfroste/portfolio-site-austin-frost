@@ -16,6 +16,13 @@ export default function Home() {
           If you have any inquiries, or would just like to chat, feel free to email! You can also check out my projects on GitHub. ✌️</p>
     	    <a href="mailto:afrost6@uoregon.edu">Email</a> <a href="https://github.com/austinfroste">GitHub</a> <a href="https://csnl.uoregon.edu/people/">CSNLab</a>
 	      </div>
+
+        <hr></hr>
+
+        <div>
+          <h3>2020</h3>
+          <a href="/2020/09/08/rps-game.js">Rock Paper Scissors Game</a>
+        </div>
       </body>
       
     </div>

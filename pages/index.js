@@ -31,10 +31,6 @@ export default function Home() {
           </div>
 
         </div>
-
-        <footer>
-          <a href="mailto:afrost6@uoregon.edu">Email</a> <a href="https://github.com/austinfroste">GitHub</a> <a href="https://csnl.uoregon.edu/people/">CSNLab</a>
-        </footer>
       </body>
       
     </div>

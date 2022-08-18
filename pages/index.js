@@ -21,7 +21,7 @@ export default function Home() {
 
         <div>
           <h2>2020</h2>
-          <a href="/2020/09/08/rps-game.js">Rock Paper Scissors Game</a>
+          <a href="/2020/09/08/rps-game">Rock Paper Scissors Game</a>
         </div>
       </body>
       

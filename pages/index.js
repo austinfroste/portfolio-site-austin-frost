@@ -11,9 +11,6 @@ export default function Home() {
       </Head>
 
       <body>
-        <header>
-          <h1><a href="/">Austin Frost</a></h1>
-        </header>
 
         <hr></hr>
 

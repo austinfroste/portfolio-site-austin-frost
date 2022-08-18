@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div /*className="container"*/>
+    <div className="main-content">
       <Head>
         <title>@austinfroste | Austin Frost</title>
         <link rel="icon" href="/favicon.ico" />
@@ -27,11 +27,11 @@ export default function Home() {
           
           <div>
             <h3>2020</h3>
-            <p><a href="/2020/09/08/rps-game.js">RPS Game</a></p>
+            <p><a href="https://github.com/austinfroste/rps-game">RPS Game</a></p>
           </div>
 
         </div>
-        
+
         <footer>
           <a href="mailto:afrost6@uoregon.edu">Email</a> <a href="https://github.com/austinfroste">GitHub</a> <a href="https://csnl.uoregon.edu/people/">CSNLab</a>
         </footer>

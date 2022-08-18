@@ -1,9 +1,11 @@
 import styles from './Header.module.css'
 
-export default function Header({ title }) {
+export default function Header() {
   return (
-    <header>
-      <a href="/">Austin Frost</a>
-    </header>
+    <>
+      <header className={styles.header}>
+        <a href="/">Austin Frost</a>
+      </header>
+    </>
   )
 }

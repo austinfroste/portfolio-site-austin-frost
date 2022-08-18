@@ -10,8 +10,8 @@ export default function RPSGame() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <header></header>
-      
+      <Header />
+
       <body>
 	      <div>
 		      <p>Here is some info!</p>

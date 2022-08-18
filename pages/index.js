@@ -19,8 +19,6 @@ export default function Home() {
     	    <a href="mailto:afrost6@uoregon.edu">Email</a> <a href="https://github.com/austinfroste">GitHub</a> <a href="https://csnl.uoregon.edu/people/">CSNLab</a>
 	      </div>
 
-        <hr></hr>
-
         <div>
           <h2>2020</h2>
           <a href="/2020/09/08/rps-game">Rock Paper Scissors Game</a>

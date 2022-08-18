@@ -59,7 +59,7 @@ hr {
   align-items: center;
 }
 
-a:link { text-decoration: none; color: #3c365c}
-a:visited { text-decoration: none; color: #4d4676}
-a:hover { text-decoration: none; color: #76728c}
-a:active { text-decoration: none; color: #201c31}
+a:link { text-decoration: underline; color: rgb(23, 88, 102)}
+a:visited { text-decoration: underline; color: rgb(23, 88, 102)}
+a:hover { text-decoration: underline; color: rgb(23, 88, 102)}
+a:active { text-decoration: underline; color: rgb(23, 88, 102)}

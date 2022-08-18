@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div /*className="container"*/>
       <Head>
         <title>@austinfroste | Austin Frost</title>
         <link rel="icon" href="/favicon.ico" />

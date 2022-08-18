@@ -6,7 +6,7 @@ export default function RPSGame() {
   return (
     <div className="container">
       <Head>
-        <title>@austinfroste | RPS Game</title>
+        <title>@austinfroste | Rock Paper Scissors</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,7 +14,7 @@ export default function RPSGame() {
 
       <body>
         <div>
-          <h1>Rock Paper Scissors Game</h1>
+          <h1>Rock Paper Scissors</h1>
         </div>
 	      <div>
           <p>A simple Rock Paper Scissors (RPS) game coded in Swift for the iOS platform.</p>

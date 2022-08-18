@@ -22,8 +22,10 @@ export default function Home() {
         <hr></hr>
 
         <div>
+          <h2>2021</h2>
+          <a href="/2021/04/16/dungeon-crawler">CS 162 Dungeon Crawler</a>
           <h2>2020</h2>
-          <a href="/2020/09/08/rps-game">Rock Paper Scissors Game</a>
+          <a href="/2020/09/08/rps-game">Rock Paper Scissors</a>
         </div>
       </body>
       

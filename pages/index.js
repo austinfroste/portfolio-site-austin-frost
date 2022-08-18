@@ -23,12 +23,21 @@ export default function Home() {
 
         <div>
           <h2>2022</h2>
-          <a href="/2022/08/18">BIDS Conversion</a>
-          <a href="/2022/04/24">GPA Calculator</a>
+          <div>
+            <a href="/2022/08/18">BIDS Conversion</a>
+          </div>
+          <div>
+            <a href="/2022/04/24">GPA Calculator</a>
+          </div>
+
           <h2>2021</h2>
-          <a href="/2021/04/16/dungeon-crawler">CS 162 Dungeon Crawler</a>
+            <div>
+              <a href="/2021/04/16/dungeon-crawler">CS 162 Dungeon Crawler</a>
+            </div>
           <h2>2020</h2>
-          <a href="/2020/09/08/rps-game">Rock Paper Scissors</a>
+            <div>
+              <a href="/2020/09/08/rps-game">Rock Paper Scissors</a>
+            </div>
         </div>
       </body>
       

@@ -15,6 +15,7 @@ export default function GPACalculator() {
       <body>
         <div>
             <h1>GPA Calculator</h1>
+            <p className="blog-post-date">24 April</p>
         </div>
 	    <div>
             <p>This is my simple GPA calculator I use at the end of the term.</p>

@@ -44,11 +44,17 @@ code {
 }
 
 hr {
-  margin: 20px;
+  margin: 30px;
+}
+
+.blog-post-title {
+  float: left;
 }
 
 .blog-post-date {
   text-align: right;
+  float: right;
+  color: rgb(142, 142, 142);
 }
 
 .container {
@@ -57,7 +63,6 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: rgb(142, 142, 142);
 }
 
 a:link { text-decoration: underline; color: rgb(23, 88, 102)}

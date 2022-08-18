@@ -27,7 +27,7 @@ export default function Home() {
           
           <div>
             <h3>2020</h3>
-            <p><a href="/2020/09/08/rps-game.js">RPS Game</a></p>
+            <p><a href="/2020/09/08/rps-game.js">RPS Game</p>
           </div>
 
         </div>

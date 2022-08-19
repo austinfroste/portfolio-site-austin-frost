@@ -3,9 +3,8 @@ body {
   background-color: snow;
   padding: 0;
   margin: 0;
-  font-family: Courier New, Inter, Arial, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
+  font-family: Inter, Courier New, Arial, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
   Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  font-style: monospace;
   font-weight: 400;
 }
 

@@ -3,13 +3,12 @@ body {
   background-color: snow;
   padding: 0;
   margin: 0;
-  font-family: 'Inter', sans-serif, Helvetica Neue, Arial, Courier New, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
+  font-family: Inter, sans-serif, Helvetica Neue, Arial, Courier New, Oxygen, Roboto Mono, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu, Cantarell,
   Fira Sans, Droid Sans, sans-serif;
   font-weight: 400;
 }
 
 div {
-  font-family: Courier;
   font-style: normal;
   padding-left: 40px;
   padding-right: 40px;

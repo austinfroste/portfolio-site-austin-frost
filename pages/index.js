@@ -28,7 +28,7 @@ export default function Home() {
             <p className="blog-post-date">18 August</p>
           </div>
           <div>
-            <a classname="blog-post-title" href="/2022/04/24/gpa-calculator">GPA Calculator</a>
+            <a classname="blog-post-title" href="/2022/04/24/gpa-calcuator">GPA Calculator</a>
             <p className="blog-post-date">24 April</p>
           </div>
 

@@ -15,7 +15,7 @@ export default function RPSGame() {
       <body>
         <div>
           <h1>Rock Paper Scissors</h1>
-          <p className="blog-post-date">8 September</p>
+          <p>8 September</p>
         </div>
 	      <div>
           <p>A simple Rock Paper Scissors (RPS) game coded in Swift for the iOS platform.</p>

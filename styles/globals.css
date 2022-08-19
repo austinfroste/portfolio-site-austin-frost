@@ -48,6 +48,7 @@ hr {
 }
 
 .blog-post-title {
+  display: inline;
   float: left;
 }
 

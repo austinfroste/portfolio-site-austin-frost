@@ -25,22 +25,22 @@ export default function Home() {
           <h2>2022</h2>
           <div>
             <a classname="blog-post-title" href="/2022/08/18/bids-conversion">BIDS Conversion</a>
-            <p className="blog-post-date">18 August</p>
+            <span className="blog-post-date">18 August</span>
           </div>
           <div>
             <a classname="blog-post-title" href="/2022/04/24/gpa-calcuator">GPA Calculator</a>
-            <p className="blog-post-date">24 April</p>
+            <span className="blog-post-date">24 April</span>
           </div>
 
           <h2>2021</h2>
             <div>
               <a classname="blog-post-title" href="/2021/04/16/dungeon-crawler">CS 162 Dungeon Crawler</a>
-              <p className="blog-post-date">16 April</p>
+              <span className="blog-post-date">16 April</span>
             </div>
           <h2>2020</h2>
             <div>
               <a classname="blog-post-title" href="/2020/09/08/rps-game">Rock Paper Scissors</a>
-              <p className="blog-post-date">8 September</p>
+              <span className="blog-post-date">8 September</span>
             </div>
         </div>
       </body>

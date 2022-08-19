@@ -52,7 +52,8 @@ hr {
 
 .blog-post-date {
   text-indent: 10px;
-  text-align: left;
+  float: right;
+  text-align: right;
   color: rgb(142, 142, 142);
 }
 

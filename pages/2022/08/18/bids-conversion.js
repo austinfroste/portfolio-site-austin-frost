@@ -15,7 +15,7 @@ export default function BIDSConversion() {
       <body>
         <div>
           <h1>BIDS Conversion</h1>
-          <p>18 August</p>
+          <p className="blog-post-date">18 August 2022</p>
         </div>
 	      <div>
             <p>work in progress</p>

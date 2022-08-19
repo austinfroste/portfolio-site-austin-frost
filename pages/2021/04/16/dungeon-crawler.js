@@ -15,7 +15,7 @@ export default function DungeonCrawler() {
       <body>
         <div>
           <h1>Dungeon Crawler</h1>
-          <p>16 April</p>
+          <p className="blog-post-date">16 April 2021</p>
         </div>
 	      <div>
             <p>This project is a simple terminal-based dungeon crawler created for my CS162 course at Lane Community College.</p>

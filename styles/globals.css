@@ -49,12 +49,11 @@ hr {
 
 .blog-post-title {
   display: inline;
-  float: left;
 }
 
 .blog-post-date {
-  text-align: right;
-  float: right;
+  text-indent: 10px;
+  text-align: left;
   color: rgb(142, 142, 142);
 }
 

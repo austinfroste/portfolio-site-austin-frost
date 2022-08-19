@@ -24,8 +24,7 @@ export default function Home() {
         <div>
           <h2>2022</h2>
           <div>
-            <a classname="blog-post-title" href="/2022/08/18/bids-conversion">BIDS Conversion</a>
-            <p className="blog-post-date">18 August</p>
+            <a classname="blog-post-title" href="/2022/08/18/bids-conversion">BIDS Conversion <p className="blog-post-date">18 August</p></a>
           </div>
           <div>
             <a classname="blog-post-title" href="/2022/04/24/gpa-calcuator">GPA Calculator</a>
